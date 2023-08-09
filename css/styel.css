@@ -1,0 +1,194 @@
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 25px;
+    
+}
+a:hover{
+    color: blue;
+}
+a{
+     text-decoration: none;
+     color: black;
+    
+    
+
+}
+.nav{
+    color: #4a4a4a;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    width: 20px;
+    margin-right: 35px;  height: 50px;
+
+    
+
+
+} .mohamed{
+    display: flex;
+
+
+}
+.rightdiv{
+    display: flex;
+    text-align: right; 
+    background-color: #f8f7fc; 
+} 
+.righth2{
+    color: #6e0aef;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+.mm{
+    font-size: 2.6rem;
+    margin-bottom: 1rem;
+}
+.ww{
+    color: rgb(29, 29, 29);
+    font-size: 1.4rem;
+}
+.hh{
+    width: 10rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    background-color: #6e0aef;
+    
+}
+.hh:hover{
+    color: transparent;
+    background-color: black;
+    color: #f8f7fc;
+}
+
+.leftdiv{
+    color: rgb(110, 10, 239);
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+    text-align: right;
+} .imgg22:hover{
+    display: flex;
+    justify-content: space-around;
+    transform: scale(1.1,1.1);
+
+} .divvv{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 50px;
+    
+
+    
+} 
+
+    
+.phone{
+    text-align: center; 
+    display: flex; 
+    justify-content: space-around;
+    
+}
+.divphone{
+    display: flex;
+    justify-content: space-around;  
+    margin-top: 50px; 
+     margin-right: 10px; margin-left: 10px;
+    margin-bottom: 50px;
+    
+
+} 
+.btn{
+    
+    
+    text-align: center;
+    
+   
+}
+.btnn{
+    width: 10rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    background-color: #6e0aef; 
+    text-decoration: none;
+    color: black;
+    margin-bottom: 50px;
+
+    
+}
+
+.gta{
+    color: #6e0aef;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+    text-align: right;
+    padding: 20px;
+} 
+.conect{
+    display: flex;
+    justify-content: space-around;
+
+       
+}
+.huawel{
+    display: flex;
+    justify-content: space-around;
+    background-color:  #f8f7fc;
+    
+}
+
+
+.rrrr{
+    border: 2px solid white; 
+    
+    border-radius: 3px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:white;
+    padding: 2rem;
+    max-width: 17rem;
+    border-radius: 1rem;
+    margin: 50px 20px 30px 20px;
+    
+    
+
+
+
+   
+} 
+
+.rrrr:hover{
+    transform: scale(1.1,1.1);
+}
+.pohoto55{
+    width: 35px; 
+    
+}
+.uu{
+    font-size: 1.2rem;
+    text-align: center;
+    color: #4e547e;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+} 
+
+
+.bmw{
+     background-color: #f8f7fc ;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+.btnn:hover{
+    color: transparent;
+    background-color: black;
+    color: #f8f7fc;
+    transform: scale(1.1,1.1);
+}
